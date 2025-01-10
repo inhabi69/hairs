@@ -48,5 +48,8 @@ PCs -30, resolution - 2.0
 ![image](https://github.com/user-attachments/assets/d7a16f07-a460-4d42-b29f-b85025c6cf96)
 ![image](https://github.com/user-attachments/assets/58ee223a-05ad-46c0-b924-b81f74506f26)
 
+**HF1-NS4_keratinocytes_only**
+![image](https://github.com/user-attachments/assets/8f7a3f2b-af2b-4f60-b6b2-8efdb6dfd17c)
+
 
 
