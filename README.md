@@ -52,4 +52,7 @@ PCs -30, resolution - 2.0
 ![image](https://github.com/user-attachments/assets/8f7a3f2b-af2b-4f60-b6b2-8efdb6dfd17c)
 
 
+# Hair_follicle2 / 
+
+
 
